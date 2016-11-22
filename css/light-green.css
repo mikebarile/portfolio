@@ -10,36 +10,6 @@
   /*ZoomIn Hover-Mask Effect*/
   font-family: 'Poppins', sans-serif;
 }
-.portfolio_block .portfolio_pic .hover-mask a {
-  display: block;
-  position: relative;
-  overflow: hidden;
-}
-.portfolio_block .portfolio_pic .hover-mask a h2 {
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  height: 100%;
-  width: 100%;
-  text-align: center;
-  background-color: rgba(153, 205, 78, 0.5);
-  -webkit-transition: all 0.5s linear;
-  -o-transition: all 0.5s linear;
-  transition: all 0.5s linear;
-  -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
-  filter: alpha(opacity=0);
-  opacity: 0;
-}
-.portfolio_block .portfolio_pic .hover-mask img {
-  width: 100%;
-  height: auto;
-  -webkit-transition: all 0.5s ease-in-out;
-  -o-transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
-}
 
 .portfolio_block .portfolio_description {
   color: inherit;
