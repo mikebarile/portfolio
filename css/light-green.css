@@ -120,7 +120,6 @@
 .portfolio_block .portfolio_items .item {
   margin-bottom: 50px;
   position: relative;
-  border: 1px solid #ABABAB;
 }
 .portfolio_block .portfolio_items .item__bg {
   content: "";
